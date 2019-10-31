@@ -19,6 +19,5 @@
         vpc_name: "{{vpc_name}}"
         region: "{{region}}"
         tag_env: "{{tag_env}}"
-  roles:
-    - ../roles/vpc
+ 
   
