@@ -1,5 +1,5 @@
 ---
-- hosts: first
+- hosts: Vpc
   vars_prompt:
     - name: "cidr_block"
       prompt: "10.0.0.0/16"
